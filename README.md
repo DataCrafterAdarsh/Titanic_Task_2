@@ -4,14 +4,14 @@ This project is part of my AI/ML internship under Elevate Lab, Skill India & MSM
 
 ---
 
-## 🔍 Task Overview
+##  Task Overview
 
-### ✅ Task Objective:
+### Task Objective:
 Analyze the Titanic dataset using the following EDA techniques:
 
 ---
 
-## 📊 What I Did
+## What I Did
 
 ### 1. Loaded & Inspected the Dataset
 - Used `pandas` to load the Titanic dataset.
@@ -38,7 +38,7 @@ These helped visualize the distribution and spot outliers.
 
 ---
 
-## 🔎 Key Insights
+##  Key Insights
 
 - **Females** had a higher survival rate than males.
 - **1st class** passengers had higher chances of survival.
@@ -47,7 +47,7 @@ These helped visualize the distribution and spot outliers.
 
 ---
 
-## 📁 Files to Upload
+##  Files to Upload
 
 - `Titanic-Dataset.csv` — Original dataset
 - `task2_eda.py` — Python script with blockwise EDA
